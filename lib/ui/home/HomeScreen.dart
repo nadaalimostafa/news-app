@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:news_app/ui/home/widgets/CategoriesDetailsOnTab.dart';
+import 'package:news_app/ui/CategoryDetails/ViewModel/CategoriesDetailsOnTab.dart';
 import 'package:news_app/ui/home/widgets/CategoriesTab.dart';
 import 'package:news_app/ui/home/widgets/CustomDrawer.dart';
 import 'package:news_app/ui/home/widgets/SettingsTab.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:news_app/ui/CategoryDetails/ViewModel/CategoryDetailsViewModel.dart';
-import 'package:news_app/ui/home/widgets/BodyTabBar.dart';
+import 'package:news_app/ui/CategoryDetails/NewsViewModel/BodyTabBar.dart';
 import 'package:provider/provider.dart';
 
 class CategoriesDetailsOnTab extends StatefulWidget {
